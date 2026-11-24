@@ -1,0 +1,52 @@
+{
+  "validated_at": "2026-11-24T04:26:24+00:00",
+  "dashboard_snapshot": "2026-11-24T04:23:12.760081+00:00",
+  "method": "Fresh downloads from the official AIC ArcGIS layer and City CKAN resources; exact ID, address, status, date, contact, and deficiency comparisons.",
+  "aic": {
+    "dashboard_records": 296,
+    "live_records": 296,
+    "records_checked": 296,
+    "missing_from_dashboard": [],
+    "missing_from_live": [],
+    "field_mismatch_count": 0,
+    "field_mismatches": [],
+    "passed": true,
+    "dashboard_open_by_category": {
+      "coa": 113,
+      "planning": 78,
+      "tlab": 24
+    },
+    "live_open_by_category": {
+      "coa": 113,
+      "planning": 78,
+      "tlab": 24
+    }
+  },
+  "property_standards": {
+    "dashboard_records": 3057,
+    "live_records": 3057,
+    "records_checked": 3057,
+    "missing_from_dashboard": [],
+    "missing_from_live": [],
+    "field_mismatch_count": 0,
+    "field_mismatches": [],
+    "passed": true,
+    "live_address_quality": {
+      "source_investigations": 55467,
+      "source_address_rows": 60721,
+      "ward_investigations": 3057,
+      "matched_address_rows": 3410,
+      "nonmatched_address_rows": 57299,
+      "ambiguous_address_rows": 12,
+      "investigations_with_deficiencies": 428,
+      "deficiency_rows": 1183,
+      "included_types": [
+        "Property Standards",
+        "Order Issued Property Standards",
+        "Notice Issued Prop Standards"
+      ],
+      "note": "Addresses are matched to the City's One Address Repository. Nonmatched rows are predominantly outside the selected ward; ambiguous candidate addresses are excluded rather than guessed."
+    }
+  },
+  "passed": true
+}

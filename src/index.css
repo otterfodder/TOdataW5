@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --canvas: oklch(93% 0.018 198);
+    --canvas-deep: oklch(84% 0.037 207);
+    --surface: oklch(96.5% 0.009 190);
+    --surface-strong: oklch(89% 0.025 200);
+    --ink: oklch(23% 0.027 210);
+    --ink-soft: oklch(39% 0.045 207);
+    --accent: oklch(40% 0.068 205);
+    --accent-dark: oklch(31% 0.052 205);
+    --accent-contrast: oklch(97% 0.008 190);
+    --line: oklch(74% 0.035 204);
+    --line-soft: oklch(85% 0.022 200);
+    --open-bg: oklch(89% 0.035 174);
+    --open-ink: oklch(32% 0.065 174);
+    --closed-bg: oklch(89% 0.012 195);
+    --closed-ink: oklch(39% 0.025 200);
+    --coa-ink: oklch(42% 0.075 80);
+    --tlab-ink: oklch(40% 0.065 330);
+    --background: 165 20% 96%;
+    --foreground: 195 40% 11%;
+    --border: 195 18% 74%;
+    --input: 195 18% 74%;
+    --ring: 195 75% 25%;
+    --primary: 191 75% 22%;
+    --primary-foreground: 165 20% 97%;
+    --radius: 0.25rem;
+  }
+
+  * { box-sizing: border-box; }
+  html { color-scheme: light; scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100dvh;
+    background: var(--canvas);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans Variable', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+  }
+  button, input, select { font: inherit; }
+  button, a, select { -webkit-tap-highlight-color: transparent; }
+  button { color: inherit; }
+  a { color: var(--accent-dark); }
+  button:not(:disabled), select:not(:disabled) { cursor: pointer; }
+  button:disabled { cursor: not-allowed; opacity: 0.45; }
+  :focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+  ::selection { background: var(--canvas-deep); color: var(--ink); }
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

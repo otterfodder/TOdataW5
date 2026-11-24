@@ -1,0 +1,18 @@
+{
+  "digest_date": "2026-11-24",
+  "captured_at": "2026-11-24T04:23:12.760081+00:00",
+  "previous_captured_at": "2026-11-24T03:37:00.027439+00:00",
+  "baseline": false,
+  "property_baseline": true,
+  "new_applications": [],
+  "changes": [],
+  "submitted_today": [],
+  "counts": {
+    "address_rows": 596,
+    "applications": 3353,
+    "open_applications": 498,
+    "property_investigations": 3057,
+    "new": 0,
+    "changed": 0
+  }
+}
