@@ -1,0 +1,85 @@
+name: Update and publish Ward 5 Watch
+
+on:
+  schedule:
+    # Off the hour avoids GitHub's busiest scheduled-workflow period.
+    - cron: '23 7 * * *'
+      timezone: America/Toronto
+  workflow_dispatch:
+
+concurrency:
+  group: ward5-production
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Refresh, test, and package
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+
+      - name: Install dashboard dependencies
+        run: npm ci
+
+      - name: Run regression tests and static checks
+        run: |
+          python3 -m unittest discover -s scripts -p 'test_*.py' -v
+          npm run lint
+
+      - name: Refresh City data and build dashboard
+        run: python3 scripts/wardwatch.py --ward 05 --build
+
+      - name: Validate release
+        run: python3 scripts/validate_release.py
+
+      - name: Preserve comparison state and digest history
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/state digests public/data public/digests public/exports
+          if git diff --cached --quiet; then
+            echo 'No generated files changed.'
+          else
+            git commit -m "Update Ward 5 snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    name: Publish last known good release
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
