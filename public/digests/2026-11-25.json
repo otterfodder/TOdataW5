@@ -1,0 +1,216 @@
+{
+  "digest_date": "2026-11-25",
+  "captured_at": "2026-11-25T13:17:18.171391+00:00",
+  "previous_captured_at": "2026-11-24T21:30:58.546061+00:00",
+  "baseline": false,
+  "property_baseline": false,
+  "new_applications": [],
+  "changes": [
+    {
+      "application": {
+        "id": "5958738",
+        "application_number": "26273668WET05MV",
+        "reference_file": null,
+        "folder_name": "134 TROWELL AVE",
+        "folder_type": "MV",
+        "type_description": "Minor Variance",
+        "category": "coa",
+        "category_label": "Committee of Adjustment",
+        "status": "In Progress",
+        "status_group": "Open",
+        "record_status": "U",
+        "submitted_date": "2026-11-23",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": "2026-11-25",
+        "description": "No description supplied.",
+        "planner": "Committee of Adjustment - WET",
+        "planner_email": "coa.ey@toronto.ca",
+        "planner_phone": "416-394-8060",
+        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=T8TOfJ1tx3houRTMx7eXjA%3D%3D",
+        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=T8TOfJ1tx3houRTMx7eXjA%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "132 TROWELL AVE",
+            "latitude": 43.686194587,
+            "longitude": -79.472611732
+          },
+          {
+            "address": "134 TROWELL AVE",
+            "latitude": 43.686178534,
+            "longitude": -79.472677815
+          }
+        ],
+        "display_address": "134 TROWELL AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "In Process",
+          "after": "In Progress"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "5830498",
+        "application_number": "26-159172",
+        "reference_file": "26-159172",
+        "folder_name": "9 HERTFORD AVE - PARTS 2, 3 & 4",
+        "folder_type": "TLAB",
+        "type_description": "Toronto Local Appeal Body",
+        "category": "tlab",
+        "category_label": "Toronto Local Appeal Body",
+        "status": "Hearing Scheduled",
+        "status_group": "Open",
+        "record_status": "X",
+        "submitted_date": "2026-07-07",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": "2027-01-12",
+        "community_meeting_date": null,
+        "last_modified_date": "2023-01-01",
+        "description": "To construct a new semi-detached fourplex with a garden suite in the rear yard.",
+        "planner": "Brandon Cortez",
+        "planner_email": "tlab@toronto.ca",
+        "planner_phone": "416-392-4697",
+        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=5VfCUTaCPbp2p6vo0F6CDw%3D%3D",
+        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=5VfCUTaCPbp2p6vo0F6CDw%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "9 HERTFORD AVE",
+            "latitude": 43.688601,
+            "longitude": -79.47731037
+          }
+        ],
+        "display_address": "9 HERTFORD AVE - PARTS 2, 3 & 4",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "hearing_date",
+          "label": "Hearing date",
+          "before": "2026-11-10",
+          "after": "2027-01-12"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "5830497",
+        "application_number": "26-159171",
+        "reference_file": "26-159171",
+        "folder_name": "9 HERTFORD AVE - PART 1",
+        "folder_type": "TLAB",
+        "type_description": "Toronto Local Appeal Body",
+        "category": "tlab",
+        "category_label": "Toronto Local Appeal Body",
+        "status": "Hearing Scheduled",
+        "status_group": "Open",
+        "record_status": "X",
+        "submitted_date": "2026-07-07",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": "2027-01-12",
+        "community_meeting_date": null,
+        "last_modified_date": "2023-01-01",
+        "description": "To construct a new semi-detached fourplex with a garden suite in the rear yard.",
+        "planner": "Brandon Cortez",
+        "planner_email": "tlab@toronto.ca",
+        "planner_phone": "416-392-4697",
+        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=YxSzGkhBTKR9fajcCkLpTQ%3D%3D",
+        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=YxSzGkhBTKR9fajcCkLpTQ%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "9 HERTFORD AVE",
+            "latitude": 43.688601,
+            "longitude": -79.47731037
+          }
+        ],
+        "display_address": "9 HERTFORD AVE - PART 1",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "hearing_date",
+          "label": "Hearing date",
+          "before": "2026-11-10",
+          "after": "2027-01-12"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "5830496",
+        "application_number": "26-159170",
+        "reference_file": "26-159170",
+        "folder_name": "9 HERTFORD AVE",
+        "folder_type": "TLAB",
+        "type_description": "Toronto Local Appeal Body",
+        "category": "tlab",
+        "category_label": "Toronto Local Appeal Body",
+        "status": "Hearing Scheduled",
+        "status_group": "Open",
+        "record_status": "X",
+        "submitted_date": "2026-07-07",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": "2027-01-12",
+        "community_meeting_date": null,
+        "last_modified_date": "2023-01-01",
+        "description": "To obtain consent to sever the lot into two undersized residential lots, to construct a pair of semi-detached fourplexes with garden suites in the rear yards and to create an easement/right-of-way for the purpose of pedestrian access.",
+        "planner": "Brandon Cortez",
+        "planner_email": "tlab@toronto.ca",
+        "planner_phone": "416-392-4697",
+        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=U0zVaT06suuzXnwwaR5UjA%3D%3D",
+        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=U0zVaT06suuzXnwwaR5UjA%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "9 HERTFORD AVE",
+            "latitude": 43.688601,
+            "longitude": -79.47731037
+          }
+        ],
+        "display_address": "9 HERTFORD AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "hearing_date",
+          "label": "Hearing date",
+          "before": "2026-11-10",
+          "after": "2027-01-12"
+        }
+      ]
+    }
+  ],
+  "submitted_today": [],
+  "counts": {
+    "address_rows": 601,
+    "applications": 3353,
+    "open_applications": 485,
+    "property_investigations": 3054,
+    "new": 0,
+    "changed": 4
+  }
+}
