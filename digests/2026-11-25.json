@@ -1,52 +1,177 @@
 {
   "digest_date": "2026-11-25",
-  "captured_at": "2026-11-25T13:17:18.171391+00:00",
-  "previous_captured_at": "2026-11-24T21:30:58.546061+00:00",
+  "captured_at": "2026-11-25T21:50:10.682471+00:00",
+  "previous_captured_at": "2026-11-25T13:17:18.171391+00:00",
   "baseline": false,
   "property_baseline": false,
   "new_applications": [],
   "changes": [
     {
       "application": {
-        "id": "5958738",
-        "application_number": "26273668WET05MV",
+        "id": "property:5956792",
+        "investigation_id": "5956792",
+        "application_number": "26 271936 PRS 00 IR",
         "reference_file": null,
-        "folder_name": "134 TROWELL AVE",
-        "folder_type": "MV",
-        "type_description": "Minor Variance",
-        "category": "coa",
-        "category_label": "Committee of Adjustment",
-        "status": "In Progress",
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
         "status_group": "Open",
-        "record_status": "U",
-        "submitted_date": "2026-11-23",
+        "record_status": "Rescheduled",
+        "submitted_date": "2026-11-18",
         "completed_date": null,
-        "latest_milestone": "Not Applicable",
-        "latest_milestone_date": "1900-01-01",
+        "latest_milestone": null,
+        "latest_milestone_date": null,
         "hearing_date": null,
         "community_meeting_date": null,
-        "last_modified_date": "2026-11-25",
-        "description": "No description supplied.",
-        "planner": "Committee of Adjustment - WET",
-        "planner_email": "coa.ey@toronto.ca",
-        "planner_phone": "416-394-8060",
-        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=T8TOfJ1tx3houRTMx7eXjA%3D%3D",
-        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=T8TOfJ1tx3houRTMx7eXjA%3D%3D",
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-12-02",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
         "ward_number": "05",
         "ward_name": "York South-Weston",
         "addresses": [
           {
-            "address": "132 TROWELL AVE",
-            "latitude": 43.686194587,
-            "longitude": -79.472611732
-          },
-          {
-            "address": "134 TROWELL AVE",
-            "latitude": 43.686178534,
-            "longitude": -79.472677815
+            "address": "1640 LAWRENCE AVE W",
+            "canonical_address": "1640 Lawrence Ave W",
+            "latitude": 43.7058073838798,
+            "longitude": -79.4929482176896
           }
         ],
-        "display_address": "134 TROWELL AVE",
+        "display_address": "1640 LAWRENCE AVE W",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-19",
+          "after": "2026-12-02"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5954319",
+        "investigation_id": "5954319",
+        "application_number": "26 269763 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
+        "status_group": "Open",
+        "record_status": "Rescheduled",
+        "submitted_date": "2026-11-13",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-12-02",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "1442 LAWRENCE AVE W",
+            "canonical_address": "1442 Lawrence Ave W",
+            "latitude": 43.7087077109326,
+            "longitude": -79.4804822708523
+          }
+        ],
+        "display_address": "1442 LAWRENCE AVE W",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-23",
+          "after": "2026-12-02"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5945429",
+        "investigation_id": "5945429",
+        "application_number": "26 261859 PRS 00 IV",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Order Issued Property Standards",
+        "investigation_type": "Order Issued Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "Closed",
+        "submitted_date": "2026-10-28",
+        "completed_date": null,
+        "latest_milestone": "Notice / order issued",
+        "latest_milestone_date": "2026-10-29",
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Order Issued Property Standards / Order to Comply",
+        "issue": "Order Issued Property Standards / Order to Comply",
+        "notice_or_order_date": "2026-10-29",
+        "next_inspection": null,
+        "expiry_date": null,
+        "deficiencies": [
+          {
+            "location": "Rear Yard",
+            "sublocation": null,
+            "text": "The tree, plant, limb or branch, which is located on the property is dead and has not been removed or otherwise pruned to remove the dead portion.",
+            "status": "Open"
+          }
+        ],
+        "deficiency_summary": "Rear Yard — The tree, plant, limb or branch, which is located on the property is dead and has not been removed or otherwise pruned to remove the dead portion. — Open",
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "53 CAMEO CRES",
+            "canonical_address": "53 Cameo Cres",
+            "latitude": 43.6767187647074,
+            "longitude": -79.4929187598408
+          }
+        ],
+        "display_address": "53 CAMEO CRES",
         "first_seen": "2026-11-24",
         "last_seen": "2026-11-25"
       },
@@ -54,152 +179,881 @@
         {
           "field": "status",
           "label": "Status",
-          "before": "In Process",
-          "after": "In Progress"
+          "before": "Order Issued",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        },
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2027-01-15",
+          "after": null
+        },
+        {
+          "field": "expiry_date",
+          "label": "Expiry date",
+          "before": "2026-12-01",
+          "after": null
         }
       ]
     },
     {
       "application": {
-        "id": "5830498",
-        "application_number": "26-159172",
-        "reference_file": "26-159172",
-        "folder_name": "9 HERTFORD AVE - PARTS 2, 3 & 4",
-        "folder_type": "TLAB",
-        "type_description": "Toronto Local Appeal Body",
-        "category": "tlab",
-        "category_label": "Toronto Local Appeal Body",
-        "status": "Hearing Scheduled",
-        "status_group": "Open",
-        "record_status": "X",
-        "submitted_date": "2026-07-07",
+        "id": "property:5945039",
+        "investigation_id": "5945039",
+        "application_number": "26 261532 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "Closed",
+        "submitted_date": "2026-10-28",
         "completed_date": null,
-        "latest_milestone": "Not Applicable",
-        "latest_milestone_date": "1900-01-01",
-        "hearing_date": "2027-01-12",
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
         "community_meeting_date": null,
-        "last_modified_date": "2023-01-01",
-        "description": "To construct a new semi-detached fourplex with a garden suite in the rear yard.",
-        "planner": "Brandon Cortez",
-        "planner_email": "tlab@toronto.ca",
-        "planner_phone": "416-392-4697",
-        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=5VfCUTaCPbp2p6vo0F6CDw%3D%3D",
-        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=5VfCUTaCPbp2p6vo0F6CDw%3D%3D",
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": null,
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
         "ward_number": "05",
         "ward_name": "York South-Weston",
         "addresses": [
           {
-            "address": "9 HERTFORD AVE",
-            "latitude": 43.688601,
-            "longitude": -79.47731037
+            "address": "53 CAMEO CRES",
+            "canonical_address": "53 Cameo Cres",
+            "latitude": 43.6767187647074,
+            "longitude": -79.4929187598408
           }
         ],
-        "display_address": "9 HERTFORD AVE - PARTS 2, 3 & 4",
+        "display_address": "53 CAMEO CRES",
         "first_seen": "2026-11-24",
         "last_seen": "2026-11-25"
       },
       "changes": [
         {
-          "field": "hearing_date",
-          "label": "Hearing date",
-          "before": "2026-11-10",
-          "after": "2027-01-12"
+          "field": "status",
+          "label": "Status",
+          "before": "Order Issued",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        },
+        {
+          "field": "expiry_date",
+          "label": "Expiry date",
+          "before": "2026-12-01",
+          "after": null
         }
       ]
     },
     {
       "application": {
-        "id": "5830497",
-        "application_number": "26-159171",
-        "reference_file": "26-159171",
-        "folder_name": "9 HERTFORD AVE - PART 1",
-        "folder_type": "TLAB",
-        "type_description": "Toronto Local Appeal Body",
-        "category": "tlab",
-        "category_label": "Toronto Local Appeal Body",
-        "status": "Hearing Scheduled",
-        "status_group": "Open",
-        "record_status": "X",
-        "submitted_date": "2026-07-07",
+        "id": "property:5936152",
+        "investigation_id": "5936152",
+        "application_number": "26 253703 PRS 00 IV",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Order Issued Property Standards",
+        "investigation_type": "Order Issued Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "Closed",
+        "submitted_date": "2026-10-06",
         "completed_date": null,
-        "latest_milestone": "Not Applicable",
-        "latest_milestone_date": "1900-01-01",
-        "hearing_date": "2027-01-12",
+        "latest_milestone": "Notice / order issued",
+        "latest_milestone_date": "2026-10-15",
+        "hearing_date": null,
         "community_meeting_date": null,
-        "last_modified_date": "2023-01-01",
-        "description": "To construct a new semi-detached fourplex with a garden suite in the rear yard.",
-        "planner": "Brandon Cortez",
-        "planner_email": "tlab@toronto.ca",
-        "planner_phone": "416-392-4697",
-        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=YxSzGkhBTKR9fajcCkLpTQ%3D%3D",
-        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=YxSzGkhBTKR9fajcCkLpTQ%3D%3D",
+        "last_modified_date": null,
+        "description": "Order Issued Property Standards / Order to Comply",
+        "issue": "Order Issued Property Standards / Order to Comply",
+        "notice_or_order_date": "2026-10-15",
+        "next_inspection": null,
+        "expiry_date": null,
+        "deficiencies": [
+          {
+            "location": "Bathroom",
+            "sublocation": null,
+            "text": "The plumbing system is not kept free from leaks or defects.",
+            "status": "Open"
+          },
+          {
+            "location": "Bathroom",
+            "sublocation": null,
+            "text": "Vanity is not maintained in a satisfactory condition.",
+            "status": "Open"
+          },
+          {
+            "location": "Bedroom",
+            "sublocation": null,
+            "text": "Interior door(s), frames(s), glass pane(s), and/or hardware not maintained in good repair.",
+            "status": "Open"
+          },
+          {
+            "location": "Kitchen",
+            "sublocation": null,
+            "text": "The electrical connections are not maintained in good working order.",
+            "status": "Open"
+          },
+          {
+            "location": "Living Room",
+            "sublocation": null,
+            "text": "Ceiling not maintained free of holes, cracks, damaged and deteriorated materials.",
+            "status": "Open"
+          },
+          {
+            "location": "Throughout Dwelling Unit",
+            "sublocation": null,
+            "text": "Interior door is not a good fit in its frame.",
+            "status": "Open"
+          },
+          {
+            "location": "Throughout Dwelling Unit",
+            "sublocation": "Dwelling Unit",
+            "text": "Wall(s) not maintained free of holes, cracks, damaged and deteriorated materials.",
+            "status": "Open"
+          }
+        ],
+        "deficiency_summary": "Bathroom — The plumbing system is not kept free from leaks or defects. — Open | Bathroom — Vanity is not maintained in a satisfactory condition. — Open | Bedroom — Interior door(s), frames(s), glass pane(s), and/or hardware not maintained in good repair. — Open | Kitchen — The electrical connections are not maintained in good working order. — Open | Living Room — Ceiling not maintained free of holes, cracks, damaged and deteriorated materials. — Open | Throughout Dwelling Unit — Interior door is not a good fit in its frame. — Open | Throughout Dwelling Unit — Dwelling Unit — Wall(s) not maintained free of holes, cracks, damaged and deteriorated materials. — Open",
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
         "ward_number": "05",
         "ward_name": "York South-Weston",
         "addresses": [
           {
-            "address": "9 HERTFORD AVE",
-            "latitude": 43.688601,
-            "longitude": -79.47731037
+            "address": "2450-2460 WESTON RD",
+            "canonical_address": "2450-2460 Weston Rd",
+            "latitude": 43.7074760852205,
+            "longitude": -79.5346399827842
+          },
+          {
+            "address": "2460 WESTON RD",
+            "canonical_address": "2460 Weston Rd",
+            "latitude": 43.7078632246253,
+            "longitude": -79.5341488706972
           }
         ],
-        "display_address": "9 HERTFORD AVE - PART 1",
+        "display_address": "2450-2460 WESTON RD",
         "first_seen": "2026-11-24",
         "last_seen": "2026-11-25"
       },
       "changes": [
         {
-          "field": "hearing_date",
-          "label": "Hearing date",
-          "before": "2026-11-10",
-          "after": "2027-01-12"
+          "field": "status",
+          "label": "Status",
+          "before": "Order Issued",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        },
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-17",
+          "after": null
+        },
+        {
+          "field": "expiry_date",
+          "label": "Expiry date",
+          "before": "2026-11-16",
+          "after": null
         }
       ]
     },
     {
       "application": {
-        "id": "5830496",
-        "application_number": "26-159170",
-        "reference_file": "26-159170",
-        "folder_name": "9 HERTFORD AVE",
-        "folder_type": "TLAB",
-        "type_description": "Toronto Local Appeal Body",
-        "category": "tlab",
-        "category_label": "Toronto Local Appeal Body",
-        "status": "Hearing Scheduled",
-        "status_group": "Open",
-        "record_status": "X",
-        "submitted_date": "2026-07-07",
+        "id": "property:5932292",
+        "investigation_id": "5932292",
+        "application_number": "26 250257 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "Closed",
+        "submitted_date": "2026-10-06",
         "completed_date": null,
-        "latest_milestone": "Not Applicable",
-        "latest_milestone_date": "1900-01-01",
-        "hearing_date": "2027-01-12",
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
         "community_meeting_date": null,
-        "last_modified_date": "2023-01-01",
-        "description": "To obtain consent to sever the lot into two undersized residential lots, to construct a pair of semi-detached fourplexes with garden suites in the rear yards and to create an easement/right-of-way for the purpose of pedestrian access.",
-        "planner": "Brandon Cortez",
-        "planner_email": "tlab@toronto.ca",
-        "planner_phone": "416-392-4697",
-        "aic_url": "https://app.toronto.ca/AIC/index.do?folderRsn=U0zVaT06suuzXnwwaR5UjA%3D%3D",
-        "source_url": "https://app.toronto.ca/AIC/index.do?folderRsn=U0zVaT06suuzXnwwaR5UjA%3D%3D",
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": null,
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
         "ward_number": "05",
         "ward_name": "York South-Weston",
         "addresses": [
           {
-            "address": "9 HERTFORD AVE",
-            "latitude": 43.688601,
-            "longitude": -79.47731037
+            "address": "2450-2460 WESTON RD",
+            "canonical_address": "2450-2460 Weston Rd",
+            "latitude": 43.7074760852205,
+            "longitude": -79.5346399827842
+          },
+          {
+            "address": "2460 WESTON RD",
+            "canonical_address": "2460 Weston Rd",
+            "latitude": 43.7078632246253,
+            "longitude": -79.5341488706972
           }
         ],
-        "display_address": "9 HERTFORD AVE",
+        "display_address": "2450-2460 WESTON RD",
         "first_seen": "2026-11-24",
         "last_seen": "2026-11-25"
       },
       "changes": [
         {
-          "field": "hearing_date",
-          "label": "Hearing date",
-          "before": "2026-11-10",
-          "after": "2027-01-12"
+          "field": "status",
+          "label": "Status",
+          "before": "Order Issued",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        },
+        {
+          "field": "expiry_date",
+          "label": "Expiry date",
+          "before": "2026-11-16",
+          "after": null
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5931562",
+        "investigation_id": "5931562",
+        "application_number": "26 249611 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
+        "status_group": "Open",
+        "record_status": "Rescheduled",
+        "submitted_date": "2026-10-05",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-11-27",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "15 HARDING AVE",
+            "canonical_address": "15 Harding Ave",
+            "latitude": 43.6991338446362,
+            "longitude": -79.5015502158404
+          }
+        ],
+        "display_address": "15 HARDING AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-18",
+          "after": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5922949",
+        "investigation_id": "5922949",
+        "application_number": "26 241852 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
+        "status_group": "Open",
+        "record_status": "Rescheduled",
+        "submitted_date": "2026-09-22",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-11-27",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "2346 WESTON RD",
+            "canonical_address": "2346 Weston Rd",
+            "latitude": 43.7057750228915,
+            "longitude": -79.5312419520472
+          }
+        ],
+        "display_address": "2346 WESTON RD",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-09",
+          "after": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5916019",
+        "investigation_id": "5916019",
+        "application_number": "26 235653 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
+        "status_group": "Open",
+        "record_status": "Rescheduled",
+        "submitted_date": "2026-09-10",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-11-30",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "15 HOLWOOD AVE",
+            "canonical_address": "15 Holwood Ave",
+            "latitude": 43.6890602818679,
+            "longitude": -79.4701757785338
+          }
+        ],
+        "display_address": "15 HOLWOOD AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-24",
+          "after": "2026-11-30"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5914287",
+        "investigation_id": "5914287",
+        "application_number": "26 234105 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "Closed",
+        "submitted_date": "2026-09-08",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": null,
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "6 WILD ROSE GDNS",
+            "canonical_address": "6 Wild Rose Gdns",
+            "latitude": 43.7046429084084,
+            "longitude": -79.4998761584848
+          }
+        ],
+        "display_address": "6 WILD ROSE GDNS",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Rescheduled",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        },
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-12-31",
+          "after": null
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5873906",
+        "investigation_id": "5873906",
+        "application_number": "26 198213 PRS 00 IV",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Order Issued Property Standards",
+        "investigation_type": "Order Issued Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Order Issued",
+        "status_group": "Open",
+        "record_status": "Order Issued",
+        "submitted_date": "2026-07-03",
+        "completed_date": null,
+        "latest_milestone": "Notice / order issued",
+        "latest_milestone_date": "2026-07-09",
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Order Issued Property Standards / Order to Comply",
+        "issue": "Order Issued Property Standards / Order to Comply",
+        "notice_or_order_date": "2026-07-09",
+        "next_inspection": "2026-12-24",
+        "expiry_date": "2026-08-10",
+        "deficiencies": [
+          {
+            "location": "Throughout Dwelling Unit",
+            "sublocation": null,
+            "text": "Ceiling not maintained free of holes, cracks, damaged and deteriorated materials.Namely, ceiling is not maintained free of stains.",
+            "status": "Open"
+          }
+        ],
+        "deficiency_summary": "Throughout Dwelling Unit — Ceiling not maintained free of holes, cracks, damaged and deteriorated materials.Namely, ceiling is not maintained free of stains. — Open",
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "24 PINEHILL CRES",
+            "canonical_address": "24 Pinehill Cres",
+            "latitude": 43.6883233515178,
+            "longitude": -79.5017893787891
+          }
+        ],
+        "display_address": "24 PINEHILL CRES",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-24",
+          "after": "2026-12-24"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5862454",
+        "investigation_id": "5862454",
+        "application_number": "26 188102 PRS 00 IV",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Order Issued Property Standards",
+        "investigation_type": "Order Issued Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "Closed",
+        "submitted_date": "2026-05-22",
+        "completed_date": null,
+        "latest_milestone": "Notice / order issued",
+        "latest_milestone_date": "2026-09-23",
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Order Issued Property Standards / Order to Comply",
+        "issue": "Order Issued Property Standards / Order to Comply",
+        "notice_or_order_date": "2026-09-23",
+        "next_inspection": null,
+        "expiry_date": null,
+        "deficiencies": [
+          {
+            "location": null,
+            "sublocation": null,
+            "text": "Interior door(s), frames(s), glass pane(s), and/or hardware not maintained in good repair.Doors throughout the unit have stains and are not maintained",
+            "status": "Open"
+          },
+          {
+            "location": null,
+            "sublocation": null,
+            "text": "The floor and every appurtenance, surface cover and finish is not maintained. Flooring is missing material in areas and the floor is not well maintained",
+            "status": "Open"
+          },
+          {
+            "location": null,
+            "sublocation": null,
+            "text": "The kitchen fixture(s) and/or fitting is not maintained in good repair and good working order.Kitchen Counter and backsplash are not well maintained",
+            "status": "Open"
+          },
+          {
+            "location": null,
+            "sublocation": null,
+            "text": "Wall(s) not maintained free of holes, cracks, damaged and deteriorated materials.Walls throughout the unit have peeling paint, damaged materials",
+            "status": "Open"
+          }
+        ],
+        "deficiency_summary": "Interior door(s), frames(s), glass pane(s), and/or hardware not maintained in good repair.Doors throughout the unit have stains and are not maintained — Open | The floor and every appurtenance, surface cover and finish is not maintained. Flooring is missing material in areas and the floor is not well maintained — Open | The kitchen fixture(s) and/or fitting is not maintained in good repair and good working order.Kitchen Counter and backsplash are not well maintained — Open | Wall(s) not maintained free of holes, cracks, damaged and deteriorated materials.Walls throughout the unit have peeling paint, damaged materials — Open",
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "2292 WESTON RD",
+            "canonical_address": "2292 Weston Rd",
+            "latitude": 43.7048901939469,
+            "longitude": -79.5295984298578
+          }
+        ],
+        "display_address": "2292 WESTON RD",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Order Issued",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        },
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-24",
+          "after": null
+        },
+        {
+          "field": "expiry_date",
+          "label": "Expiry date",
+          "before": "2026-07-24",
+          "after": null
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5837928",
+        "investigation_id": "5837928",
+        "application_number": "26 165792 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "Closed",
+        "submitted_date": "2026-05-22",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": null,
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "2292 WESTON RD",
+            "canonical_address": "2292 Weston Rd",
+            "latitude": 43.7048901939469,
+            "longitude": -79.5295984298578
+          }
+        ],
+        "display_address": "2292 WESTON RD",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Order Issued",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        },
+        {
+          "field": "expiry_date",
+          "label": "Expiry date",
+          "before": "2026-07-24",
+          "after": null
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5808650",
+        "investigation_id": "5808650",
+        "application_number": "26 140124 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
+        "status_group": "Open",
+        "record_status": "Rescheduled",
+        "submitted_date": "2026-04-08",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-11-30",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "30 FALSTAFF AVE",
+            "canonical_address": "30 Falstaff Ave",
+            "latitude": 43.7164125209507,
+            "longitude": -79.5052200584451
+          }
+        ],
+        "display_address": "30 FALSTAFF AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-08-17",
+          "after": "2026-11-30"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5709645",
+        "investigation_id": "5709645",
+        "application_number": "25 226628 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
+        "status_group": "Open",
+        "record_status": "Rescheduled",
+        "submitted_date": "2025-09-16",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-11-30",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "30 FALSTAFF AVE",
+            "canonical_address": "30 Falstaff Ave",
+            "latitude": 43.7164125209507,
+            "longitude": -79.5052200584451
+          }
+        ],
+        "display_address": "30 FALSTAFF AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-25"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-08-17",
+          "after": "2026-11-30"
         }
       ]
     }
@@ -207,10 +1061,10 @@
   "submitted_today": [],
   "counts": {
     "address_rows": 601,
-    "applications": 3353,
-    "open_applications": 485,
-    "property_investigations": 3054,
+    "applications": 3348,
+    "open_applications": 478,
+    "property_investigations": 3049,
     "new": 0,
-    "changed": 4
+    "changed": 15
   }
 }
