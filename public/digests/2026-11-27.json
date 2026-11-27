@@ -1,0 +1,490 @@
+{
+  "digest_date": "2026-11-27",
+  "captured_at": "2026-11-27T21:28:48.624633+00:00",
+  "previous_captured_at": "2026-11-26T21:43:47.871476+00:00",
+  "baseline": false,
+  "property_baseline": false,
+  "new_applications": [],
+  "changes": [
+    {
+      "application": {
+        "id": "5958900",
+        "application_number": "A0361/26EYK",
+        "reference_file": "A0361/26EYK",
+        "folder_name": "100 INDUSTRY ST",
+        "folder_type": "MV",
+        "type_description": "Minor Variance",
+        "category": "coa",
+        "category_label": "Committee of Adjustment",
+        "status": "Accepted",
+        "status_group": "Open",
+        "record_status": "U",
+        "submitted_date": "2026-11-23",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": "2026-11-27",
+        "description": "No description supplied.",
+        "planner": "Committee of Adjustment - WET",
+        "planner_email": "coa.ey@toronto.ca",
+        "planner_phone": "416-394-8060",
+        "aic_url": "http://app.toronto.ca/AIC/index.do?folderRsn=PhUYLFeA%2F1H9z%2ByNPEwlfg%3D%3D",
+        "source_url": "http://app.toronto.ca/AIC/index.do?folderRsn=PhUYLFeA%2F1H9z%2ByNPEwlfg%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "100 INDUSTRY ST",
+            "latitude": 43.692914121,
+            "longitude": -79.490213497
+          }
+        ],
+        "display_address": "100 INDUSTRY ST",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "In Progress",
+          "after": "Accepted"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "5922738",
+        "application_number": "A0307/26EYK",
+        "reference_file": "A0307/26EYK",
+        "folder_name": "182 EILEEN AVE - FINAL AND BINDING",
+        "folder_type": "MV",
+        "type_description": "Minor Variance",
+        "category": "coa",
+        "category_label": "Committee of Adjustment",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "U",
+        "submitted_date": "2026-09-22",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": "2026-11-05",
+        "community_meeting_date": null,
+        "last_modified_date": "2026-11-27",
+        "description": "To construct a three-storey east side addition that will include an attached garage and to create an additional dwelling unit. A total of two dwelling units are proposed.",
+        "planner": "Annalisa Morra",
+        "planner_email": "Annalisa.Morra@toronto.ca",
+        "planner_phone": "(416) 394-2870",
+        "aic_url": "http://app.toronto.ca/AIC/index.do?folderRsn=HYx%2FlP%2Fnfpx9ZLj%2BjWVFEA%3D%3D",
+        "source_url": "http://app.toronto.ca/AIC/index.do?folderRsn=HYx%2FlP%2Fnfpx9ZLj%2BjWVFEA%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "182 EILEEN AVE",
+            "latitude": 43.66715616,
+            "longitude": -79.503927921
+          }
+        ],
+        "display_address": "182 EILEEN AVE - FINAL AND BINDING",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Approved",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "5916277",
+        "application_number": "A0293/26EYK",
+        "reference_file": "A0293/26EYK",
+        "folder_name": "15 SORLYN AVE - FINAL AND BINDING",
+        "folder_type": "MV",
+        "type_description": "Minor Variance",
+        "category": "coa",
+        "category_label": "Committee of Adjustment",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "U",
+        "submitted_date": "2026-09-11",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": "2026-11-05",
+        "community_meeting_date": null,
+        "last_modified_date": "2026-11-27",
+        "description": "To legalize and to maintain the existing duplex currently under construction.",
+        "planner": "Adam Borsella",
+        "planner_email": "Adam.Borsella@toronto.ca",
+        "planner_phone": "(416) 394-8088",
+        "aic_url": "http://app.toronto.ca/AIC/index.do?folderRsn=Nhv9DscneD9L9aIP9yFbMA%3D%3D",
+        "source_url": "http://app.toronto.ca/AIC/index.do?folderRsn=Nhv9DscneD9L9aIP9yFbMA%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "15 SORLYN AVE",
+            "latitude": 43.706734401,
+            "longitude": -79.491468266
+          }
+        ],
+        "display_address": "15 SORLYN AVE - FINAL AND BINDING",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Approved with Conditions",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "5915671",
+        "application_number": "A0297/26EYK",
+        "reference_file": "A0297/26EYK",
+        "folder_name": "2417, 2427, 2431 WESTON RD - FINAL AND BINDING",
+        "folder_type": "MV",
+        "type_description": "Minor Variance",
+        "category": "coa",
+        "category_label": "Committee of Adjustment",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "U",
+        "submitted_date": "2026-09-10",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": "2026-11-05",
+        "community_meeting_date": null,
+        "last_modified_date": "2026-11-27",
+        "description": "To construct a new four-storey self storage building.",
+        "planner": "Annalisa Morra",
+        "planner_email": "Annalisa.Morra@toronto.ca",
+        "planner_phone": "(416) 394-2870",
+        "aic_url": "http://app.toronto.ca/AIC/index.do?folderRsn=RXLeRzTu93T5OOloT5uKLQ%3D%3D",
+        "source_url": "http://app.toronto.ca/AIC/index.do?folderRsn=RXLeRzTu93T5OOloT5uKLQ%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "2417 WESTON RD",
+            "latitude": 43.707064303,
+            "longitude": -79.532160537
+          },
+          {
+            "address": "2427 WESTON RD",
+            "latitude": 43.707305186,
+            "longitude": -79.533005459
+          }
+        ],
+        "display_address": "2417, 2427, 2431 WESTON RD - FINAL AND BINDING",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Approved",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "5874672",
+        "application_number": "A0219/26EYK",
+        "reference_file": "A0219/26EYK",
+        "folder_name": "127 RUSTIC RD - FINAL AND BINDING",
+        "folder_type": "MV",
+        "type_description": "Minor Variance",
+        "category": "coa",
+        "category_label": "Committee of Adjustment",
+        "status": "Closed",
+        "status_group": "Closed",
+        "record_status": "U",
+        "submitted_date": "2026-07-09",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": "2026-11-05",
+        "community_meeting_date": null,
+        "last_modified_date": "2026-11-27",
+        "description": "To construct a one-storey east side addition with an attached garage, a new front porch, and a pool and cabana in the rear yard.",
+        "planner": "Paul Posilovic",
+        "planner_email": "pposilo@toronto.ca",
+        "planner_phone": "(416) 394-8059",
+        "aic_url": "http://app.toronto.ca/AIC/index.do?folderRsn=r3XS%2BB7o5nTmJ17IAY076g%3D%3D",
+        "source_url": "http://app.toronto.ca/AIC/index.do?folderRsn=r3XS%2BB7o5nTmJ17IAY076g%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "127 RUSTIC RD",
+            "latitude": 43.7127480816,
+            "longitude": -79.5013108889
+          }
+        ],
+        "display_address": "127 RUSTIC RD - FINAL AND BINDING",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Approved",
+          "after": "Closed"
+        },
+        {
+          "field": "status_group",
+          "label": "Open / closed group",
+          "before": "Open",
+          "after": "Closed"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5957567",
+        "investigation_id": "5957567",
+        "application_number": "26 272629 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Rescheduled",
+        "status_group": "Open",
+        "record_status": "Rescheduled",
+        "submitted_date": "2026-11-19",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": "2026-11-30",
+        "expiry_date": null,
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "2500 KEELE ST",
+            "canonical_address": "2500 Keele St",
+            "latitude": 43.7131028547384,
+            "longitude": -79.4796385268298
+          }
+        ],
+        "display_address": "2500 KEELE ST",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-24",
+          "after": "2026-11-30"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5955624",
+        "investigation_id": "5955624",
+        "application_number": "26 270935 PRS 00 IR",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Property Standards",
+        "investigation_type": "Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Order Issued",
+        "status_group": "Open",
+        "record_status": "Order Issued",
+        "submitted_date": "2026-11-17",
+        "completed_date": null,
+        "latest_milestone": null,
+        "latest_milestone_date": null,
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Property Standards / ---",
+        "issue": "Property Standards / ---",
+        "notice_or_order_date": null,
+        "next_inspection": null,
+        "expiry_date": "2026-12-28",
+        "deficiencies": [],
+        "deficiency_summary": null,
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "5 HARDING AVE",
+            "canonical_address": "5 Harding Ave",
+            "latitude": 43.6993763996008,
+            "longitude": -79.502250279165
+          }
+        ],
+        "display_address": "5 HARDING AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "status",
+          "label": "Status",
+          "before": "Rescheduled",
+          "after": "Order Issued"
+        },
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-25",
+          "after": null
+        },
+        {
+          "field": "expiry_date",
+          "label": "Expiry date",
+          "before": null,
+          "after": "2026-12-28"
+        }
+      ]
+    },
+    {
+      "application": {
+        "id": "property:5941661",
+        "investigation_id": "5941661",
+        "application_number": "26 258528 PRS 00 IV",
+        "reference_file": null,
+        "folder_name": null,
+        "folder_type": "PRS",
+        "type_description": "Order Issued Property Standards",
+        "investigation_type": "Order Issued Property Standards",
+        "category": "property",
+        "category_label": "Property Standards",
+        "status": "Order Issued",
+        "status_group": "Open",
+        "record_status": "Order Issued",
+        "submitted_date": "2026-09-30",
+        "completed_date": null,
+        "latest_milestone": "Notice / order issued",
+        "latest_milestone_date": "2026-10-23",
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": null,
+        "description": "Order Issued Property Standards / Order to Comply",
+        "issue": "Order Issued Property Standards / Order to Comply",
+        "notice_or_order_date": "2026-10-23",
+        "next_inspection": "2026-12-04",
+        "expiry_date": "2026-11-23",
+        "deficiencies": [
+          {
+            "location": "Bathroom",
+            "sublocation": null,
+            "text": "Vanity is not maintained in a satisfactory condition.",
+            "status": "Open"
+          },
+          {
+            "location": "Kitchen",
+            "sublocation": null,
+            "text": "The cupboard is not maintained in good repair and good working order.",
+            "status": "Open"
+          },
+          {
+            "location": "Throughout Dwelling Unit",
+            "sublocation": null,
+            "text": "Interior door(s), frames(s), glass pane(s), and/or hardware not maintained in good repair.",
+            "status": "Open"
+          }
+        ],
+        "deficiency_summary": "Bathroom — Vanity is not maintained in a satisfactory condition. — Open | Kitchen — The cupboard is not maintained in good repair and good working order. — Open | Throughout Dwelling Unit — Interior door(s), frames(s), glass pane(s), and/or hardware not maintained in good repair. — Open",
+        "planner": null,
+        "planner_email": null,
+        "planner_phone": null,
+        "aic_url": null,
+        "source_url": "https://secure.toronto.ca/InvestigationActivity/setup.do?action=init",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "5 HARDING AVE",
+            "canonical_address": "5 Harding Ave",
+            "latitude": 43.6993763996008,
+            "longitude": -79.502250279165
+          }
+        ],
+        "display_address": "5 HARDING AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-27"
+      },
+      "changes": [
+        {
+          "field": "next_inspection",
+          "label": "Next inspection",
+          "before": "2026-11-24",
+          "after": "2026-12-04"
+        }
+      ]
+    }
+  ],
+  "submitted_today": [],
+  "counts": {
+    "address_rows": 599,
+    "applications": 3339,
+    "open_applications": 468,
+    "property_investigations": 3042,
+    "new": 0,
+    "changed": 8
+  }
+}
