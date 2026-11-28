@@ -1,0 +1,67 @@
+{
+  "digest_date": "2026-11-28",
+  "captured_at": "2026-11-28T20:20:52.097100+00:00",
+  "previous_captured_at": "2026-11-27T21:28:48.624633+00:00",
+  "baseline": false,
+  "property_baseline": false,
+  "new_applications": [],
+  "changes": [
+    {
+      "application": {
+        "id": "5948616",
+        "application_number": "A0342/26EYK",
+        "reference_file": "A0342/26EYK",
+        "folder_name": "26 GROVEDALE AVE",
+        "folder_type": "MV",
+        "type_description": "Minor Variance",
+        "category": "coa",
+        "category_label": "Committee of Adjustment",
+        "status": "Accepted",
+        "status_group": "Open",
+        "record_status": "U",
+        "submitted_date": "2026-11-03",
+        "completed_date": null,
+        "latest_milestone": "Not Applicable",
+        "latest_milestone_date": "1900-01-01",
+        "hearing_date": null,
+        "community_meeting_date": null,
+        "last_modified_date": "2026-11-28",
+        "description": "To construct a new fourplex with a garden suite in the rear yard.",
+        "planner": "Nicole Milrose",
+        "planner_email": "Nicole.Milrose@toronto.ca",
+        "planner_phone": "416-394-8065",
+        "aic_url": "http://app.toronto.ca/AIC/index.do?folderRsn=o2q6kIROVt4zBwAhK0lowg%3D%3D",
+        "source_url": "http://app.toronto.ca/AIC/index.do?folderRsn=o2q6kIROVt4zBwAhK0lowg%3D%3D",
+        "ward_number": "05",
+        "ward_name": "York South-Weston",
+        "addresses": [
+          {
+            "address": "26 GROVEDALE AVE",
+            "latitude": 43.7185886593,
+            "longitude": -79.4837193915
+          }
+        ],
+        "display_address": "26 GROVEDALE AVE",
+        "first_seen": "2026-11-24",
+        "last_seen": "2026-11-28"
+      },
+      "changes": [
+        {
+          "field": "description",
+          "label": "Description / issue",
+          "before": "No description supplied.",
+          "after": "To construct a new fourplex with a garden suite in the rear yard."
+        }
+      ]
+    }
+  ],
+  "submitted_today": [],
+  "counts": {
+    "address_rows": 599,
+    "applications": 3339,
+    "open_applications": 468,
+    "property_investigations": 3042,
+    "new": 0,
+    "changed": 1
+  }
+}
